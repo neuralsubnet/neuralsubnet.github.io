@@ -1,0 +1,27 @@
+{
+  "name": "neuralsubnet.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuralsubnet/neuralsubnet.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neuralsubnet/neuralsubnet.github.io/issues"
+  },
+  "homepage": "https://github.com/neuralsubnet/neuralsubnet.github.io#readme"
+}
