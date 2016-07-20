@@ -1,7 +1,7 @@
 {
   "name": "neuralsubnet.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "neuralsubnet.github.io",
   "main": "main.js",
   "dependencies": {
     "underscore": "^1.8.3"
@@ -19,10 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/neuralsubnet/neuralsubnet.github.io.git"
   },
-  "author": "",
+  "author": "neuralsubnet",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/neuralsubnet/neuralsubnet.github.io/issues"
   },
-  "homepage": "https://github.com/neuralsubnet/neuralsubnet.github.io#readme"
+  "homepage": "https://neuralsubnet.github.io"
 }
